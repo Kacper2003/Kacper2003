@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Kacper 👋  
 
-<!--
-**Kacper2003/Kacper2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate from Reykjavík University with a passion for building modern web applications and backend services.  
+Currently based in Iceland, planning to relocate to Poland (Gdańsk area).  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- **.NET Backend Development** – REST APIs, Entity Framework, PostgreSQL  
+- **Full-Stack Projects** – Next.js, React, TypeScript  
+- **DevOps & Tools** – Docker, Git, CI/CD basics  
+
+---
+
+## 🎯 Interests
+- Software engineering and scalable backend systems  
+- Distributed systems & AI fundamentals  
+- Web solutions that solve real-world problems  
+
+---
+
+## 📫 Let's Connect
+- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/kacper-kaczy%C5%84ski-240164299/)
+- [My CV](#) (PDF link) 
+
+---
+
+⭐️ Check out my repositories below – more projects coming soon!
